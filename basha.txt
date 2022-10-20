@@ -1,0 +1,27 @@
+
+Amazon login:
+Email/Username: shaikidiathullah786@gmail.com
+Password: Basha786@
+
+Github:
+Username: idiathullahbasha
+Password : Sairam321621@
+
+Docker Hub:
+Username: basha0786
+Password: 7661950826
+
+
+shaikidiathullah786@gmail.com
+Basha786@
+
+dockerhub:
+basha786
+7661950826
+
+www.terraform.io/docs/providers/index.html
+JAVA_ARGS="-Xms512m -Xmx512m"
+
+
+
+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
